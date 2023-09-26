@@ -1,7 +1,11 @@
 # Express-Mongo-Views
+
 Test of Express Views
 
+![Screenshot Express Views App](Screenshot.png)
+
 You can fork this project, then
+
 - `npm install` + `git init` in your terminal
 - create a database on `MongoDB-Atlas`
 - create an `.env` file and add `.env` to your `.gitignore` file
@@ -13,4 +17,3 @@ You can fork this project, then
 - Enjoy and give it a star if it deserves it
 
   Made with 💖 by Dominique Bello aka Catevika - 2023
-
