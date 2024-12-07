@@ -60,7 +60,7 @@ router.get('/:id', async (req, res) => {
   try {
     const student = await StudentModel.findById(req.params.id);
     res.render('student/addOrEdit', {
-      viewTtile: 'Update student',
+      viewTitle: 'Update student',
       student: student
     });
     console.log(student);
